@@ -1,2 +1,2 @@
-# shevelevdesign.github.io
+# eduard.github.io
 Мой сайт
